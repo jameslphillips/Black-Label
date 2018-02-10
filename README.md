@@ -16,14 +16,14 @@ A list of opininated links to resources useful for Digibtye Education & Open-Sou
   
 #### Non-Technical Videos (More Detail)
   * [Digbyte talk — Digbyte & the Blockchain: An Introduction](https://www.youtube.com/watch?v=JkWVD8MJlS0&t=707s) (26m:16s) by [@JaredTate](https://twitter.com/jaredctate) 
-  * [Digibyte info](https://www.youtube.com/watch?v=zzbmMK68ZG8&t=126s) (4:20m) by Krypto Kevin
   * [Bitcoin 101 - What is Bitcoin?](https://www.youtube.com/watch?v=Bhe61JaNFLU) (22m:32s) by [James D'Angelo WBN](https://www.youtube.com/channel/UCgo7FCCPuylVk4luP3JAgVw)
-  * [Reddit AMA](https://www.reddit.com/r/Digibyte/comments/72b9v9/jared_tates_answers_from_the_ama/ @Jared Tate)
+  * [Reddit AMA](https://www.reddit.com/r/Digibyte/comments/72b9v9/jared_tates_answers_from_the_ama) by [@JaredTate](https://telegram.org/) 
  
 
-#### Non-Technical Articles
-  * [What is Digibyte?](https://www.youtube.com/watch?v=d-y9wNWII6k&t=1248s) by Jared Tate
+#### Non-Technical Articles)
+  * [What is Digibyte?](https://www.youtube.com/watch?v=d-y9wNWII6k&t=1248s) by [@JaredTate](https://www.linkedin.com/in/jaredctate/) 
   * [What is Digibyte?](https://www.youtube.com/watch?v=ZKOdo8PbpDY&t=546s) by Chris Derose, Jared Tate
+  * [Digibyte info](https://www.youtube.com/watch?v=zzbmMK68ZG8&t=126s) (4:20m) by Krypto Kevin
   * [The Impact of the Blockchain Goes Beyond Financial Services](https://hbr.org/2016/05/the-impact-of-the-blockchain-goes-beyond-financial-services) by Don an Alex Tapscott
 
 ### Technical Introductions
@@ -137,7 +137,7 @@ You'll need Digibyte testnet coins while developing apps with digibyt. List in r
   * [Bip32 Generator](https://github.com/bip32/bip32.github.io) `git clone https://github.com/bip32/bip32.github.io.git ; cd bip32.github.io ; open index.html` lets you create Bip32 Deterministic Heirarchical Keys (prefix xpub* and xprv*) based on a simple brainwallet (aka arbitrary mnemonic) passphrase.
   * [Blockstack Keychains JS](https://github.com/blockstack/blockstack-keychains-js)
 
-  What is DigiByte?
+### What is DigiByte?
 ----------------
 
 ###DigiByte (DGB) is a rapidly growing four year old decentralized global blockchain with a focus on cyber security, payments & secure communications technologies.
