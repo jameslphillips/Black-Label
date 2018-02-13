@@ -1,56 +1,20 @@
-<div class="row">
-    <div class="col-sm-6 col-md-4">
-        <div class="thumbnail">
-            <img src="" alt="..." class="img-responsive">
-            <div class="caption">
-                <h3>Digibyte Stickers</h3>
-                <p class="description">Lorem ipsum dolor amet organic glossier williamsburg narwhal taiyaki kickstarter. Leggings venmo selvage, vegan microdosing normcore scenester hella flannel tacos succulents.</p>
-                <div class="clearfix">
-                    <div class="price pull-left">X-DGB</div>
-                    <a href="#" class="btn btn-success pull-right" role="button">Add To Cart</a>
+{{# each products }}
+    <div class="row">
+        {{# each this }}
+            <div class="col-sm-6 col-md-4">
+                <div class="thumbnail">
+                    <img src="{{ this.imagePath }}" alt="..." class="img-responsive">
+                    <div class="caption">
+                        <h3>{{ this.title }}</h3>
+                        <p class="description">{{ this.description }}</p>
+                        <div class="clearfix">
+                            <div class="price pull-left">DGB:{{ this.price }}</div>
+                            <a href="#" class="btn btn-success pull-right" role="button">Add to Shopping Cart</a>
+                        </div>
+                    </div>
                 </div>
             </div>
-        </div>
+        {{/each}}
     </div>
+{{/each}}
 
-    
-    <div class="col-sm-6 col-md-4">
-        <div class="thumbnail">
-            <img src="" alt="add-img" class="img-responsive">
-            <div class="caption">
-                <h3>Digibyte-Random</h3>
-                <p class="description">Lorem ipsum dolor amet organic glossier williamsburg narwhal taiyaki kickstarter. Leggings venmo selvage, vegan microdosing normcore scenester hella flannel tacos succulents.</p>
-                <div class="clearfix">
-                    <div class="price pull-left">X-DGB</div>
-                    <a href="#" class="btn btn-success pull-right" role="button">Add To Cart</a>
-                </div>
-            </div>
-        </div>
-    </div>
-    
-
-   
-    <div class="col-sm-6 col-md-4">
-        <div class="thumbnail">
-            <img src="" alt="add-img" class="img-responsive">
-            <div class="caption">
-                <h3>Digibyte Stickers</h3>
-                <p class="description">Lorem ipsum dolor amet organic glossier williamsburg narwhal taiyaki kickstarter. Leggings venmo selvage, vegan microdosing normcore scenester hella flannel tacos succulents.</p>
-                <div class="clearfix">
-                    <div class="price pull-left">X-DGB</div>
-                    <a href="#" class="btn btn-success pull-right" role="button">Add To Cart</a>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    </div>
-
-  
-
-
-
-
-
-
-    

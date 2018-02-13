@@ -1,22 +1,22 @@
 .thumbnail img {
-  max-height: 150px;
-}
-
-.thumbnail .description {
-  color: #7f7f7f;
-}
-
-.price {
-  font-weight: bold;
-  font-size: 16px;
-}
-
-#title {
-  color: white;
-}
-
-.thumbnail {
-  margin-top: 150px;
-  border-color: black;
-}
-
+    max-height: 150px;
+ 
+  }
+  
+  .thumbnail .description {
+    color: #7f7f7f;
+  }
+  
+  .price {
+    font-weight: bold;
+    font-size: 16px;
+  }
+  
+  #title {
+    color: white;
+  }
+  
+  .thumbnail {
+    margin-top: 150px;
+    border-color: black;
+  }
