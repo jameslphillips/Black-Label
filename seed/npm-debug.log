@@ -1,0 +1,35 @@
+0 info it worked if it ends with ok
+1 verbose cli [ 'C:\\Program Files\\nodejs\\node.exe',
+1 verbose cli   'C:\\Users\\james\\AppData\\Roaming\\npm\\node_modules\\npm\\bin\\npm-cli.js',
+1 verbose cli   'start' ]
+2 info using npm@3.10.8
+3 info using node@v8.9.4
+4 verbose run-script [ 'prestart', 'start', 'poststart' ]
+5 info lifecycle black-label-site@0.0.0~prestart: black-label-site@0.0.0
+6 silly lifecycle black-label-site@0.0.0~prestart: no script for prestart, continuing
+7 info lifecycle black-label-site@0.0.0~start: black-label-site@0.0.0
+8 verbose lifecycle black-label-site@0.0.0~start: unsafe-perm in lifecycle true
+9 verbose lifecycle black-label-site@0.0.0~start: PATH: C:\Users\james\AppData\Roaming\npm\node_modules\npm\bin\node-gyp-bin;C:\Users\james\Desktop\Black-Label-Site\node_modules\.bin;C:\Users\james\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\local\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\james\bin;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\Program Files (x86)\QuickTime\QTSystem;C:\Program Files\Git\cmd;C:\Program Files\Common Files\Autodesk Shared;C:\Program Files (x86)\Yarn\bin;C:\Program Files\PuTTY;C:\Users\james\AppData\Roaming\nvm;C:\Program Files\nodejs;C:\Program Files\nodejs;C:\Users\james\AppData\Local\Microsoft\WindowsApps;C:\Program Files (x86)\Microsoft VS Code\bin;C:\Users\james\AppData\Local\Microsoft\WindowsApps;C:\Users\james\AppData\Local\Yarn\bin;C:\Users\james\AppData\Roaming\nvm;C:\Program Files\nodejs;C:\Users\james\AppData\Roaming\npm;C:\Program Files\Git\usr\bin\vendor_perl;C:\Program Files\Git\usr\bin\core_perl
+10 verbose lifecycle black-label-site@0.0.0~start: CWD: C:\Users\james\Desktop\Black-Label-Site
+11 silly lifecycle black-label-site@0.0.0~start: Args: [ '/d /s /c', 'node ./bin/www' ]
+12 verbose stack Error: kill ENOSYS
+12 verbose stack     at Object._errnoException (util.js:1022:11)
+12 verbose stack     at process.kill (internal/process.js:183:18)
+12 verbose stack     at process.listener (C:\Users\james\AppData\Roaming\npm\node_modules\npm\node_modules\npmlog\node_modules\gauge\node_modules\signal-exit\index.js:86:15)
+12 verbose stack     at emitNone (events.js:111:20)
+12 verbose stack     at process.emit (events.js:208:7)
+12 verbose stack     at processEmit (C:\Users\james\AppData\Roaming\npm\node_modules\npm\node_modules\npmlog\node_modules\gauge\node_modules\signal-exit\index.js:146:32)
+12 verbose stack     at processEmit (C:\Users\james\AppData\Roaming\npm\node_modules\npm\node_modules\npm-registry-client\node_modules\npmlog\node_modules\gauge\node_modules\signal-exit\index.js:146:32)
+12 verbose stack     at Signal.wrap.onsignal (internal/process.js:208:44)
+13 verbose cwd C:\Users\james\Desktop\Black-Label-Site\seed
+14 error Windows_NT 10.0.16299
+15 error argv "C:\\Program Files\\nodejs\\node.exe" "C:\\Users\\james\\AppData\\Roaming\\npm\\node_modules\\npm\\bin\\npm-cli.js" "start"
+16 error node v8.9.4
+17 error npm  v3.10.8
+18 error code ENOSYS
+19 error errno ENOSYS
+20 error syscall kill
+21 error kill ENOSYS
+22 error If you need help, you may report this error at:
+22 error     <https://github.com/npm/npm/issues>
+23 verbose exit [ 1, true ]
