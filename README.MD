@@ -1,4 +1,4 @@
-# Digibyte-Black-Label-Developer-Resources-Project
+# Digibyte Black Label Developer Resources Project
 
 
 
@@ -11,7 +11,7 @@ A list of opininated links to resources useful for Digibtye Education & Open-Sou
 ### Non-Technical Introductions
 
 #### Non-Technical Videos (Very Intro)
-  * [Digibyte explained and made simple](https://www.youtube.com/watch?v=zzbmMK68ZG8)(https://www.youtube.com/watch?v=rmDyhKOjNKM) (3m:24s) by [The Guardian](https://www.youtube.com/channel/UCIhCqPrFQGX-NQm1B-YprlQ)
+  * [Digibyte explained and made simple](https://www.youtube.com/watch?v=zzbmMK68ZG8) (https://www.youtube.com/watch?v=rmDyhKOjNKM) (3m:24s) by [The Guardian](https://www.youtube.com/channel/UCIhCqPrFQGX-NQm1B-YprlQ)
   * [The Essence of How Bitcoin Works (Non-Technical)](https://www.youtube.com/watch?v=t5JGQXCTe3c) (5m:24s) by [Curious Inventor](http://Patreon.com/CuriousInventor)
   
 #### Non-Technical Videos (More Detail)
@@ -20,7 +20,7 @@ A list of opininated links to resources useful for Digibtye Education & Open-Sou
   * [Reddit AMA](https://www.reddit.com/r/Digibyte/comments/72b9v9/jared_tates_answers_from_the_ama) by [@JaredTate](https://telegram.org/) 
  
 
-#### Non-Technical Articles)
+#### Non-Technical Articles
   * [What is Digibyte?](https://www.youtube.com/watch?v=d-y9wNWII6k&t=1248s) by [@JaredTate](https://www.linkedin.com/in/jaredctate/) 
   * [What is Digibyte?](https://www.youtube.com/watch?v=ZKOdo8PbpDY&t=546s) by Chris Derose, Jared Tate
   * [Digibyte info](https://www.youtube.com/watch?v=zzbmMK68ZG8&t=126s) (4:20m) by Krypto Kevin
@@ -38,7 +38,7 @@ A list of opininated links to resources useful for Digibtye Education & Open-Sou
   * [Mastering Bitcoin](https://github.com/aantonop/bitcoinbook)(https://www.amazon.com/Mastering-Bitcoin-Unlocking-Digital-Cryptocurrencies/dp/1449374042) (https://github.com/bitcoinbook/bitcoinbook)(https://www.amazon.com/Blockchain-Blueprint-Economy-Melanie-Swan/dp/1491920491/ref=pd_sim_14_4?_encoding=UTF8&pd_rd_i=1491920491&pd_rd_r=H3DCBQ8JEY5M9K365YT2&pd_rd_w=fe5Yd&pd_rd_wg=F8l2L&psc=1&refRID=H3DCBQ8JEY5M9K365YT2)
 
 #### Technical Articles
-* [Elliptic Curve Digital Signature Algorithm and its Applications in Bitcoin (http://cs.ucsb.edu/~koc/ecc/project/2015Projects/Malvik+Witzoee.pdf) by Arnt Gunnar Malvik and Bendik Witzoee
+* Elliptic Curve Digital Signature Algorithm and its Applications in Bitcoin (http://cs.ucsb.edu/~koc/ecc/project/2015Projects/Malvik+Witzoee.pdf) by Arnt Gunnar Malvik and Bendik Witzoee
 * [Programming Bitcoin Transaction Scripts](https://docs.google.com/document/d/1D_gi_7Sf9sOyAHG25cMpOO4xtLq3iJUtjRwcZXFLv1E/edit) by Kofler
 * [Developer’s Introduction to Bitcoin](http://bitcoinmagazine.com/9249/developers-introduction-bitcoin/) by Buterin
 * [How Bitcoin Works Under the Hood](http://www.imponderablethings.com/2013/07/how-bitcoin-works-under-hood.html) by Driscoll
@@ -81,7 +81,7 @@ Javascript is in both server (node) and client (browser) development. Some basic
 
 ### Introduction to Node & Javascript
 
-Server-based Javascript typically uses Node. These Javascript learning resources are node specific:
+Server-based Javascript typically uses Node. These Javascript learning resources are Node specific:
 
   * I like the command-line based [nodeschool.io](http://nodeschool.io) tutorials, as they require you to both use the command line and to create real working code. These are the basic interactive tutorials, but    there are many more available.
    * Learn javascripting basics `npm install -g javascripting`
@@ -120,11 +120,11 @@ These tools can be cloned from github to allow you to use your browser to play a
   * [digibyte JavaScript](https://github.com/digicontributer/digibyte-js)(https://playground.digibyte.io/#/address) @-digicontributer
   * [Bitcoin-Digibyte 101 - Getting Started With Bitcore - A Full JavaScript Implementation of Bitcoin](https://www.youtube.com/watch?v=TmkN8yYyOv8)
     * https://github.com/wobine/blackboard101/blob/master/BitcoreDayOne.html - code for the above
-  * [Bitcoin-Digibyte Quick Tools](https://github.com/chulini/bitcoin-quick-tools) - Simple browser-based app (loaded locally) that is digibyte.js. Has key and address generator and simple transaction tool. Useful working example of browserfy digbyte.js code.
+  * [Bitcoin-Digibyte Quick Tools](https://github.com/chulini/bitcoin-quick-tools) - Simple browser-based app (loaded locally) that uses digibyte.js. Has key and address generator and simple transaction tool. Useful working example of browserfy digbyte.js code.
 
 ### Testnet Faucets
 
-You'll need Digibyte testnet coins while developing apps with digibyt. List in rough order of reliability and number of coins offered.
+You'll need Digibyte testnet coins while developing apps with Digibyte. List in rough order of reliability and number of coins offered.
 
   * Under Develpoment  
 
@@ -140,37 +140,37 @@ You'll need Digibyte testnet coins while developing apps with digibyt. List in r
 ### What is DigiByte?
 ----------------
 
-###DigiByte (DGB) is a rapidly growing four year old decentralized global blockchain with a focus on cyber security, payments & secure communications technologies.
+### DigiByte (DGB) is a rapidly growing, four-year-old decentralized global blockchain with a focus on cyber security, payments & secure communications technologies.
 
 For more information, as well as an immediately useable, binary version of
 the DigiByte Core software, see https://digibyte.io
 
-###DigiByte FAQ
+### DigiByte FAQ
 -------------
-Total Supply: 21 Bilion DigiBytes in 21 years
-Block Timing: 15 Second Blocks, (1.5 Minutes per algo)
-Mining Algorithims: Five (Sha256, Scrypt, Groestl, Skein & Qubit)
-Blockchain Type: Public, Decentralized UTXO based
-Launch Date: January 10th, 2014
+* Total Supply: 21 Bilion DigiBytes in 21 years
+* Block Timing: 15 Second Blocks, (1.5 Minutes per algo)
+* Mining Algorithims: Five (Sha256, Scrypt, Groestl, Skein & Qubit)
+* Blockchain Type: Public, Decentralized UTXO based
+* Launch Date: January 10th, 2014
 
 You can mine DigiByte on one of five seperate mining algorithms. Each algo averages out to mine 20% of new blocks. This allows for much greater decentraliztion than other blockchains. In order for an attacker to hardfork DigiByte the attacker would need to control 93% of the hashrate on 1 algo, and 51% of the other 4 making DigiByte much more secure against PoW attacks than other blockchains.
 
-*DigiShield Hardfork: Block 67,200, Feb. 28th, 2014
+* DigiShield Hardfork: Block 67,200, Feb. 28th, 2014
 
-*MultiAlgo Hardfork: Block 145k, Sep. 1st 2014
+* MultiAlgo Hardfork: Block 145k, Sep. 1st 2014
 
-*MultiShield Hardfork: Block 400k, Dec. 10th 2014
+* MultiShield Hardfork: Block 400k, Dec. 10th 2014
 
-*DigiSpeed Hardfork: Block 1,430,000 Dec. 4th 2015
+* DigiSpeed Hardfork: Block 1,430,000 Dec. 4th 2015
 
-*DigiByte vs Bitcoin
+* DigiByte vs Bitcoin
 -------------------
 
 Security: 5 DigiByte mining algorithms vs. 1 Bitcoin algorithm.
 DigiByte mining is much more decentralized.
 DigiByte mining algorithms can be changed out in the future to prevent centralization.
 
-Speed:  DigiByte transactions occur much faster that Bitcoin transactions.
+Speed: DigiByte transactions occur much faster that Bitcoin transactions.
 1-3 second transaction notifications.
 15 second DigiByte blocks vs. 10 minute Bitcoin blocks.
 DigiBytes are confirmed after 1.5 minutes vs. 1 hour with Bitcoins.
