@@ -81,7 +81,7 @@ Javascript is in both server (node) and client (browser) development. Some basic
 
 ### Introduction to Node & Javascript
 
-Server-based Javascript typically uses Node. These Javascript learning resources are node specific:
+Server-based Javascript typically uses Node. These Javascript learning resources are Node specific:
 
   * I like the command-line based [nodeschool.io](http://nodeschool.io) tutorials, as they require you to both use the command line and to create real working code. These are the basic interactive tutorials, but    there are many more available.
    * Learn javascripting basics `npm install -g javascripting`
@@ -120,11 +120,11 @@ These tools can be cloned from github to allow you to use your browser to play a
   * [digibyte JavaScript](https://github.com/digicontributer/digibyte-js)(https://playground.digibyte.io/#/address) @-digicontributer
   * [Bitcoin-Digibyte 101 - Getting Started With Bitcore - A Full JavaScript Implementation of Bitcoin](https://www.youtube.com/watch?v=TmkN8yYyOv8)
     * https://github.com/wobine/blackboard101/blob/master/BitcoreDayOne.html - code for the above
-  * [Bitcoin-Digibyte Quick Tools](https://github.com/chulini/bitcoin-quick-tools) - Simple browser-based app (loaded locally) that is digibyte.js. Has key and address generator and simple transaction tool. Useful working example of browserfy digbyte.js code.
+  * [Bitcoin-Digibyte Quick Tools](https://github.com/chulini/bitcoin-quick-tools) - Simple browser-based app (loaded locally) that uses digibyte.js. Has key and address generator and simple transaction tool. Useful working example of browserfy digbyte.js code.
 
 ### Testnet Faucets
 
-You'll need Digibyte testnet coins while developing apps with digibyt. List in rough order of reliability and number of coins offered.
+You'll need Digibyte testnet coins while developing apps with Digibyte. List in rough order of reliability and number of coins offered.
 
   * Under Develpoment  
 
@@ -140,12 +140,12 @@ You'll need Digibyte testnet coins while developing apps with digibyt. List in r
 ### What is DigiByte?
 ----------------
 
-###DigiByte (DGB) is a rapidly growing four year old decentralized global blockchain with a focus on cyber security, payments & secure communications technologies.
+### DigiByte (DGB) is a rapidly growing, four-year-old decentralized global blockchain with a focus on cyber security, payments & secure communications technologies.
 
 For more information, as well as an immediately useable, binary version of
 the DigiByte Core software, see https://digibyte.io
 
-###DigiByte FAQ
+### DigiByte FAQ
 -------------
 Total Supply: 21 Bilion DigiBytes in 21 years
 Block Timing: 15 Second Blocks, (1.5 Minutes per algo)
@@ -155,22 +155,22 @@ Launch Date: January 10th, 2014
 
 You can mine DigiByte on one of five seperate mining algorithms. Each algo averages out to mine 20% of new blocks. This allows for much greater decentraliztion than other blockchains. In order for an attacker to hardfork DigiByte the attacker would need to control 93% of the hashrate on 1 algo, and 51% of the other 4 making DigiByte much more secure against PoW attacks than other blockchains.
 
-*DigiShield Hardfork: Block 67,200, Feb. 28th, 2014
+* DigiShield Hardfork: Block 67,200, Feb. 28th, 2014
 
-*MultiAlgo Hardfork: Block 145k, Sep. 1st 2014
+* MultiAlgo Hardfork: Block 145k, Sep. 1st 2014
 
-*MultiShield Hardfork: Block 400k, Dec. 10th 2014
+* MultiShield Hardfork: Block 400k, Dec. 10th 2014
 
-*DigiSpeed Hardfork: Block 1,430,000 Dec. 4th 2015
+* DigiSpeed Hardfork: Block 1,430,000 Dec. 4th 2015
 
-*DigiByte vs Bitcoin
+* DigiByte vs Bitcoin
 -------------------
 
 Security: 5 DigiByte mining algorithms vs. 1 Bitcoin algorithm.
 DigiByte mining is much more decentralized.
 DigiByte mining algorithms can be changed out in the future to prevent centralization.
 
-Speed:  DigiByte transactions occur much faster that Bitcoin transactions.
+Speed: DigiByte transactions occur much faster that Bitcoin transactions.
 1-3 second transaction notifications.
 15 second DigiByte blocks vs. 10 minute Bitcoin blocks.
 DigiBytes are confirmed after 1.5 minutes vs. 1 hour with Bitcoins.
