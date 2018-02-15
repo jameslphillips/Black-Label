@@ -147,11 +147,11 @@ the DigiByte Core software, see https://digibyte.io
 
 ### DigiByte FAQ
 -------------
-Total Supply: 21 Bilion DigiBytes in 21 years
-Block Timing: 15 Second Blocks, (1.5 Minutes per algo)
-Mining Algorithims: Five (Sha256, Scrypt, Groestl, Skein & Qubit)
-Blockchain Type: Public, Decentralized UTXO based
-Launch Date: January 10th, 2014
+* Total Supply: 21 Bilion DigiBytes in 21 years
+* Block Timing: 15 Second Blocks, (1.5 Minutes per algo)
+* Mining Algorithims: Five (Sha256, Scrypt, Groestl, Skein & Qubit)
+* Blockchain Type: Public, Decentralized UTXO based
+* Launch Date: January 10th, 2014
 
 You can mine DigiByte on one of five seperate mining algorithms. Each algo averages out to mine 20% of new blocks. This allows for much greater decentraliztion than other blockchains. In order for an attacker to hardfork DigiByte the attacker would need to control 93% of the hashrate on 1 algo, and 51% of the other 4 making DigiByte much more secure against PoW attacks than other blockchains.
 
