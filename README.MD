@@ -1,4 +1,4 @@
-# Digibyte-Black-Label-Developer-Resources-Project
+# Digibyte Black Label Developer Resources Project
 
 
 
@@ -11,7 +11,7 @@ A list of opininated links to resources useful for Digibtye Education & Open-Sou
 ### Non-Technical Introductions
 
 #### Non-Technical Videos (Very Intro)
-  * [Digibyte explained and made simple](https://www.youtube.com/watch?v=zzbmMK68ZG8)(https://www.youtube.com/watch?v=rmDyhKOjNKM) (3m:24s) by [The Guardian](https://www.youtube.com/channel/UCIhCqPrFQGX-NQm1B-YprlQ)
+  * [Digibyte explained and made simple](https://www.youtube.com/watch?v=zzbmMK68ZG8) (https://www.youtube.com/watch?v=rmDyhKOjNKM) (3m:24s) by [The Guardian](https://www.youtube.com/channel/UCIhCqPrFQGX-NQm1B-YprlQ)
   * [The Essence of How Bitcoin Works (Non-Technical)](https://www.youtube.com/watch?v=t5JGQXCTe3c) (5m:24s) by [Curious Inventor](http://Patreon.com/CuriousInventor)
   
 #### Non-Technical Videos (More Detail)
@@ -20,7 +20,7 @@ A list of opininated links to resources useful for Digibtye Education & Open-Sou
   * [Reddit AMA](https://www.reddit.com/r/Digibyte/comments/72b9v9/jared_tates_answers_from_the_ama) by [@JaredTate](https://telegram.org/) 
  
 
-#### Non-Technical Articles)
+#### Non-Technical Articles
   * [What is Digibyte?](https://www.youtube.com/watch?v=d-y9wNWII6k&t=1248s) by [@JaredTate](https://www.linkedin.com/in/jaredctate/) 
   * [What is Digibyte?](https://www.youtube.com/watch?v=ZKOdo8PbpDY&t=546s) by Chris Derose, Jared Tate
   * [Digibyte info](https://www.youtube.com/watch?v=zzbmMK68ZG8&t=126s) (4:20m) by Krypto Kevin
@@ -38,7 +38,7 @@ A list of opininated links to resources useful for Digibtye Education & Open-Sou
   * [Mastering Bitcoin](https://github.com/aantonop/bitcoinbook)(https://www.amazon.com/Mastering-Bitcoin-Unlocking-Digital-Cryptocurrencies/dp/1449374042) (https://github.com/bitcoinbook/bitcoinbook)(https://www.amazon.com/Blockchain-Blueprint-Economy-Melanie-Swan/dp/1491920491/ref=pd_sim_14_4?_encoding=UTF8&pd_rd_i=1491920491&pd_rd_r=H3DCBQ8JEY5M9K365YT2&pd_rd_w=fe5Yd&pd_rd_wg=F8l2L&psc=1&refRID=H3DCBQ8JEY5M9K365YT2)
 
 #### Technical Articles
-* [Elliptic Curve Digital Signature Algorithm and its Applications in Bitcoin (http://cs.ucsb.edu/~koc/ecc/project/2015Projects/Malvik+Witzoee.pdf) by Arnt Gunnar Malvik and Bendik Witzoee
+* Elliptic Curve Digital Signature Algorithm and its Applications in Bitcoin (http://cs.ucsb.edu/~koc/ecc/project/2015Projects/Malvik+Witzoee.pdf) by Arnt Gunnar Malvik and Bendik Witzoee
 * [Programming Bitcoin Transaction Scripts](https://docs.google.com/document/d/1D_gi_7Sf9sOyAHG25cMpOO4xtLq3iJUtjRwcZXFLv1E/edit) by Kofler
 * [Developer’s Introduction to Bitcoin](http://bitcoinmagazine.com/9249/developers-introduction-bitcoin/) by Buterin
 * [How Bitcoin Works Under the Hood](http://www.imponderablethings.com/2013/07/how-bitcoin-works-under-hood.html) by Driscoll
